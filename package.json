@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "server": "json-server-auth --w db.json -p8080"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "json-server": "^0.17.4",
+    "json-server-auth": "^2.1.0"
+  },
+  "name": "json-server-auth1",
+  "version": "1.0.0",
+  "main": "js.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
