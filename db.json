@@ -17,6 +17,12 @@
       "password": "$2a$10$bc.asRYZauzyn9tNrmHgM.yvTC9ndXvUxLnSj.4Sq1vmbzCC9aRIO",
       "name": "adilet",
       "id": 3
+    },
+    {
+      "email": "roma@gmail.com",
+      "password": "$2a$10$VM9af7sB9FbGYX9/qDk.c.fPAFcumoKg55qGZGBt8mFG5HVE356a6",
+      "name": "ramazan",
+      "id": 4
     }
   ],
   "films": [
